@@ -1,6 +1,6 @@
 Este laboratório introduz os primeiros passos na administração de sistemas Linux em instâncias EC2, destacando a importância da documentação embutida (man pages) e do acesso seguro via SSH.
 
-Esses conceitos são a base para o trabalho futuro com EC2, AMI, CLI da AWS e automação de servidores, consolidando uma base sólida para estudos avançados em computação em nuvem.
+Esses conceitos são a base para o trabalho futuro com EC2, AMI, CLI da AWS e automação de servidores
 
 # 🐧 AWS Lab – Introdução a uma Imagem de Máquina da Amazon (AMI) no Amazon Linux
 
